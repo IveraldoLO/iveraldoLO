@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Iveraldo!
 
 - 🔭 Hoje trabalho com HTML, Js e Ftont-End.
-- 🌱 Sempre estudando HTML, Js e Ftont-End! 
+- 🌱 Entusiasta de novas tecnologias e soluções que facilitam a vida das pessoas. 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
